@@ -1,6 +1,6 @@
 {
   "_comment": "NicoMarket Shopping"
-  "maintenance": false,
+  "maintenance": true,
   "message": "Server läuft normal",
   "lastUpdated": "2026-01-23T10:00:00Z"
 }
